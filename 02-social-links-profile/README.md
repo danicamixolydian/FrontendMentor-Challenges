@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/danicamixolydian/FrontendMentor-Challenges/tree/main/02-social-links-profile](https://github.com/danicamixolydian/FrontendMentor-Challenges/tree/main/02-social-links-profile)
+- Live Site URL: [https://danicamixolydian.github.io/FrontendMentor-Challenges/](https://danicamixolydian.github.io/FrontendMentor-Challenges/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [How to include a font ttf using css?](https://www.geeksforgeeks.org/css/how-to-include-a-font-ttf-using-css/)
+- [How to include a font ttf using CSS?](https://www.geeksforgeeks.org/css/how-to-include-a-font-ttf-using-css/)
 - [How to make your website responsive using media queries in CSS?](https://www.youtube.com/watch?v=UUjNEMXZA-k&t=2s)
 
 ## Author
