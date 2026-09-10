@@ -203,8 +203,12 @@ div.product-price small {
 
 @media screen and (max-width: 376px) {
   div.product-price {
-    display: flex;
-    gap: 25px;
-    align-items: center;
+    gap: 24px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  div.product-price {
+    gap: 15px;
   }
 }
