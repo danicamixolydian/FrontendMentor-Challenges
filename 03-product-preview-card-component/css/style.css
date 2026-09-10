@@ -49,6 +49,7 @@ body {
   display: grid;
   place-content: center;
   background-color: var(--cream);
+  padding-bottom: 30px;
 }
 
 main {
@@ -56,10 +57,14 @@ main {
   background-color: var(--white);
   border-radius: 20px;
   margin: 30px;
+  max-width: 800px;
 }
 
 .perfume-img {
-  width: 420px;
+  display: block;
+  max-width: 400px;
+  height: auto;
+  width: 100%;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
 }
@@ -73,7 +78,7 @@ div.product-details {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  width: 420px;
+  max-width: 400px;
 }
 
 p.perfume-text {
@@ -149,11 +154,12 @@ div.product-price small {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 991px) {
   main {
     display: flex;
     flex-direction: column;
-    margin: 30px 25px 0px 25px;
+    width: calc(100% - 50px);
+    margin: 30px auto 0;
     border-bottom-left-radius: 20px;
   }
 
@@ -163,10 +169,14 @@ div.product-price small {
 
   .perfume-img-mobile {
     display: block;
-    max-width: 100%;
+    width: 100%;
     height: auto;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+  }
+
+  div.product-details {
+    max-width: 100%;
   }
 
   p.perfume-text {
@@ -188,5 +198,13 @@ div.product-price small {
 
   .attribution {
     margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  div.product-price {
+    display: flex;
+    gap: 25px;
+    align-items: center;
   }
 }
