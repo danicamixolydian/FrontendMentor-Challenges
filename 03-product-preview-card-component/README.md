@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot/Screenshot_Frontend Mentor Product preview card component.png)
 
 ### Links
 
-- Solution URL: Add solution URL here
-- Live Site URL: Add live site URL here
+- Solution URL: [https://github.com/danicamixolydian/FrontendMentor-Challenges/tree/main/03-product-preview-card-component](https://github.com/danicamixolydian/FrontendMentor-Challenges/tree/main/03-product-preview-card-component)
+- Live Site URL: [https://product-preview-card-component-dm.netlify.app/](https://product-preview-card-component-dm.netlify.app/)
 
 ## My process
 
@@ -39,11 +39,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- focus-visible pseudo-class
 - Desktop-first workflow
-
-### Continued development
-
-- Applying responsive CSS styles on mobile devices
 
 ## Author
 
