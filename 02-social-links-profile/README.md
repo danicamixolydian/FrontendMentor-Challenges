@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./screenshot/Screenshot_Frontend%20Mentor%20Social%20links%20profile.png" alt="Screenshot of my solution on the Frontend Mentor Social links profile challenge" width="250" align="center" />
+<img src="./screenshot/Screenshot_Frontend%20Mentor%20Social%20links%20profile.png" alt="Screenshot of my solution on the Frontend Mentor Social links profile challenge" width="500" text-align="center" />
 
 ### Links
 
