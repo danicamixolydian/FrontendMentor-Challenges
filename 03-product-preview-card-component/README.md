@@ -10,7 +10,6 @@ This is my solution to the [Product preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -24,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot/Screenshot_Frontend Mentor Product preview card component.png)
+![Screenshot](./screenshot/Screenshot_Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 ### Links
 
