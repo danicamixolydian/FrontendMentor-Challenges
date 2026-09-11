@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my solution on the Frontend Mentor Social links profile challenge](./screenshot/Screenshot_Frontend Mentor Social links profile.png)
+<img src="./screenshot/Screenshot_Frontend%20Mentor%20Social%20links%20profile.png" alt="Screenshot of my solution on the Frontend Mentor Social links profile challenge" width="250" align="center" />
 
 ### Links
 
@@ -52,8 +52,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [How to include a font ttf using CSS?](https://www.geeksforgeeks.org/css/how-to-include-a-font-ttf-using-css/)
-- [How to make your website responsive using media queries in CSS?](https://www.youtube.com/watch?v=UUjNEMXZA-k&t=2s)
+- [(Article) How to include a font ttf using CSS?](https://www.geeksforgeeks.org/css/how-to-include-a-font-ttf-using-css/)
+- [(Video) How to make your website responsive using media queries in CSS?](https://www.youtube.com/watch?v=UUjNEMXZA-k&t=2s)
 
 ## Author
 
