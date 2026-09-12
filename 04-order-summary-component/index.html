@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Frontend Mentor | Order summary card</title>
+  </head>
+  <body>
+    <picture>
+      <source
+        media="(orientation: landscape)"
+        srcset="./images/pattern-background-desktop.svg"
+      />
+      <source
+        media="(orientation: portrait)"
+        srcset="./images/pattern-background-mobile.svg"
+      />
+      <img
+        src="./images/pattern-background-mobile.svg"
+        alt="a pattern background"
+      />
+    </picture>
+    <main>
+      <img
+        src="./images/illustration-hero.svg"
+        alt="(a pattern background) A girl wearing headphones while holding a phone is listening to music"
+      />
+      <div class="order-summary">
+        <h1 class="red-hat-display-900">Order Summary</h1>
+        <p class="red-hat-display-500 order-summary-p">
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
+        <div class="selected-plan">
+          <img src="./images/icon-music.svg" />
+          <div class="plan-and-price-container">
+            <p class="red-hat-display-900">Annual Plan</p>
+            <p class="red-hat-display-500">$59.99/year</p>
+          </div>
+          <a href="#" class="red-hat-display-700">Change</a>
+        </div>
+
+        <button class="proceed-payment-btn red-hat-display-900">
+          Proceed to Payment
+        </button>
+        <button class="cancel-order-btn red-hat-display-900">
+          Cancel Order
+        </button>
+      </div>
+    </main>
+
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+      Coded by <a href="#">danicamixolydian</a>.
+    </footer>
+  </body>
+</html>
